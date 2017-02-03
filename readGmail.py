@@ -5,6 +5,7 @@ import email
 import imaplib
 import os
 import config
+import pyodbc
 
 
 def read_mensages():
